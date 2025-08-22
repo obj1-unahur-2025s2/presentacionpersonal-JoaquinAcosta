@@ -4,10 +4,10 @@
 ## Presentación Personal
 
 ### Datos Personales
-- Mi nombre es:
-- Vivo en
+- Mi nombre es: Joaquín Acosta
+- Vivo en Rafael Castillo
 
 
 ### Otra Información
-- Este es mi primer contacto con github
-- Tengo un gato que se llama Timoteol
+- Este no es mi primer contacto con github
+- Tengo dos gatos que se llaman Rubi y Cleo
